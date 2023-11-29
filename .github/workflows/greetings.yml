@@ -1,10 +1,10 @@
-name: Greetings, friends! Welcome to tech proximity
+name: Tech Proximity
 
 on: [pull_request_target, issues]
 
-jobs: All IT & Developers are welcomed to log in and look for work and complete the jobs remotely
-  greeting:
-    runs-on: ubuntu-latest/ Linux system/windows 10 and above & MACOS
+jobs: All IT & Developers are welcome to log in, look for work and complete the jobs remotely
+  greeting: Greetings friends!
+    runs-on: ubuntu-latest/linux system/windows 10 and above & MACOS
     permissions:
       issues: write
       pull-requests: write
